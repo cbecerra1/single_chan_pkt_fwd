@@ -1,8 +1,6 @@
 *** IMPORTANT ***
 
-Please note this repository is deprecated, and the code is not up-to-date to use on The Things Network.
-
-This repository will not be further maintained. Please find another repository if you want to deploy a single channel gateway.
+Please note this repository is deprecated, and the code is just to show how a single channel gateway works.
 
 
 Single Channel LoRaWAN Gateway
